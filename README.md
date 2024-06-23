@@ -25,7 +25,7 @@
 
 <p align="left">
 📚 I'm learning  Fronend React since 03.10.2023
-<br
+<br>
 💻 I'm very interested in programming
 </p>
 
@@ -57,7 +57,7 @@
 
 ###
 
-<p align="left">contact me</p>
+<h2 align="left">contact me</h2>
 
 ###
 
