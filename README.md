@@ -2,7 +2,7 @@
   <img height="200" src="https://avatars.githubusercontent.com/u/156795106?s=400&u=e45d29858a2f00102d325fa7800efbf27e101d48&v=4"  />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71E69&background=3DFF2500&random=false&width=435&lines=Assalomu+Alaykum+!;Davronbek+Anvarov+accountiga+hush+kelibsiz+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71E69&background=3DFF2500&random=false&width=435&lines=Assalomu+Alaykum+!;Davronbekning+accountiga+hush+kelibsiz+!)](https://git.io/typing-svg)
 
 ###
 
@@ -12,7 +12,6 @@
 
 ###
 
-<h1 align="left">Assalomu Alaykum !</h1>
 
 ###
 
