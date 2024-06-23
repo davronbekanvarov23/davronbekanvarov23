@@ -23,7 +23,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+📚 I'm learning  Fronend React since 03.10.2023
+<br
+💻 I'm very interested in programming
+</p>
 
 ###
 
